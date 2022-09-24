@@ -1,0 +1,79 @@
+head{
+    background-color: rgb(255, 255, 255);
+}
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEdV0Jt0pnfhg4_RzfgFDOZ8d8Azd6z7BhQ&usqp=CAU");
+    background-size: 10%;
+    background-repeat: repeat-x;
+    background-color: rgb(2, 26, 0);
+    
+}
+h1{
+   font-size: 50px;
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    position: absolute;
+    left: 35%;
+    
+}
+.type1{
+    border: 15px solid rgb(20, 99, 0);
+    border-radius: 5px;
+    height: 350px;
+    position: absolute;
+    top: 110%;
+    left: 40%;
+    transform: translate(-100%,-50%);
+    border-style: outset;
+}
+.type2{
+    border: 15px solid rgb(49, 92, 0);
+    border-radius: 5px;
+    height: 300px;
+    position: absolute;
+    top: 35%;
+    left: 40%;
+    transform: translate(-20%,-20%);
+    border-style: outset;
+}
+.type3{
+    border: 15px solid rgb(11, 92, 0);
+    border-radius: 5px;
+    height: 300px;
+    position: absolute;
+    top: 110%;
+    left: 50%;
+    transform: translate(-1%,-60%);
+    border-style: outset;
+}
+button{
+    color: rgb(255, 255, 255);
+    background-color: rgb(1, 24, 0);
+    font-size: 30px;
+    border-radius: 5px;
+    position: absolute;
+    left: 50%;
+    top: 135%;
+    border-color: rgb(30, 255, 0);
+    font-family: sans-serif;
+}
+.type4{
+    border: 15px solid rgb(18, 92, 0);
+    border-radius: 5px;
+    height: 300px;
+    position: absolute;
+    top: 55%;
+    left: 70%;
+    transform: translate(-1%,-60%);
+    border-style: outset;
+}
+.lama{
+    border: 15px solid rgb(3, 92, 0);
+    border-radius: 5px;
+    height: 300px;
+    position: absolute;
+    top: 55%;
+    left: 10%;
+    transform: translate(-1%,-60%);
+    border-style: outset;
+}
