@@ -1,0 +1,57 @@
+.n{
+    font-size: 40px;
+    position: absolute;
+    left: 38%;
+    top: 54%;
+    border-color: blue;
+    border-radius: 5px;
+    background-color: rgb(5, 0, 34);
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+}
+.o{
+    font-size: 40px;
+    position: absolute;
+    left: 41%;
+    top: 69%;
+    border-color: blue;
+    border-radius: 5px;
+    background-color: rgb(5, 0, 34);
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+}
+.a{
+    font-size: 40px;
+    position: absolute;
+    left: 38%;
+    top: 40%;
+    border-color: blue;
+    border-radius: 5px;
+    background-color: rgb(5, 0, 34);
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.p{
+    font-size: 40px;
+    position: absolute;
+    left:46%;
+    top: 83%;
+    border-color: blue;
+    border-radius: 5px;
+    background-color: rgb(5, 0, 34);
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+}
+body{
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaha8lQ1bnxwhwG5WVma4wZhSFWaiLq_2vCw&usqp=CAU) ;
+    background-repeat: repeat-x;
+    background-color: rgb(5, 0, 34);
+}
+h1{
+    color: white;
+    font-size: 100px;
+    position: absolute;
+    left: 30%;
+    font-family: sans-serif;
+}
